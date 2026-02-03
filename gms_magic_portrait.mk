@@ -18,5 +18,7 @@
 
 # Tensorflow
 PRODUCT_PACKAGES += \
+    libtensorflowlite_jni \
+    MagicPortraitSymLink \
     MagicPortraitWallpapers \ 
     privapp-permissions-google-magic-portrait
