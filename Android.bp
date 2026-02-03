@@ -5,8 +5,8 @@
 //
 
 install_symlink {
-    name: "MagicPortraitSymLink",
+    name: "MagicPortraitSymLink1",
     system_ext_specific: true,
-    installed_location: "priv-app/MagicPortraitWallpapers/lib/arm64/libtensorflowlite_jni.so",
+    installed_location: "priv-app/MagicPortraitWallpapers1/lib/arm64/libtensorflowlite_jni.so",
     symlink_target: "/system/lib64/libtensorflowlite_jni.so",
 }

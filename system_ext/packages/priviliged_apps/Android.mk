@@ -19,9 +19,9 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := MagicPortraitWallpapers
+LOCAL_MODULE := MagicPortraitWallpapers1
 LOCAL_MODULE_TAGS := optional
-LOCAL_SRC_FILES := MagicPortraitWallpapers.apk
+LOCAL_SRC_FILES := MagicPortraitWallpapers1.apk
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_CLASS := APPS
 LOCAL_SYSTEM_EXT_MODULE := true
